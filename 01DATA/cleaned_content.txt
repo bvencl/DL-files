@@ -1,0 +1,390 @@
+﻿
+
+
+
+  
+
+Deep Learning a gyakorlatban Python és LUA alapon - VITMAV45 | SmartLab, BME TMIT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Languages
+
+
+Magyar
+
+English
+
+
+
+
+
+
+
+Menü be/kikapcsolás
+
+
+
+
+
+
+
+
+
+
+
+                            RÓLUNK
+                        
+
+Laborunkról
+Munkatársaink
+Média megjelenések
+
+
+
+
+
+
+                            MEGOLDÁSAINK
+                        
+
+Profivox magyar nyelvű felolvasó (korpuszos)
+Profivox magyar nyelvű felolvasó (DNN)
+Profivox magyar nyelvű felolvasó (HMM)
+Profivox magyar nyelvű felolvasó (diádos,triádos)
+StrokeAid
+
+Alkalmazások
+
+Jaws for Windows integráció
+Időjárás mindenkinek (magyar, Windows 8)
+AALFred (5 nyelven, Windows 8.1)
+Robobraille
+Beszélő ATM-ek
+
+Gyógyszervonal (OGYI)
+
+Árlista felolvasó (T-mobile)
+Keleti pályaudvar bemondórendszere
+Mindenség elmélete c. film gépi beszéd szinkron
+
+
+
+
+
+
+
+
+                            K+F
+                        
+
+
+Kutatási projektek (folyamatban)
+Kutatási projektek (befejezett)
+Publikációk (összes)
+Publikációk (kiemelt)
+Letölthető könyvek
+
+
+
+
+OKTATÁS
+
+
+
+KAPCSOLAT
+BLOG
+
+
+
+
+
+
+
+
+
+
+DEEP LEARNING A GYAKORLATBAN PYTHON ÉS LUA ALAPON
+
+Kezdőlap
+Oktatás
+Deep Learning
+
+
+
+
+
+
+
+
+
+
+
+Ha a tárgyról lecsúsztál, de szeretnél a deep learningbe belekezdeni, vagy már elvégezted a tárgyat és szeretnél elmélyülni a témában, akár PhD-zni, akkor olvass tovább az alábbi gombra kattintva:
+
+
+További tudnivalók
+
+
+
+
+
+
+  "Először is szeretném megköszönni a Deep Learning a Gyagorlatban Python és Lua alapokon tárgy keretein belül végzett munkád (illetve a társoktatóknak is) és a rengetek tudást amit kaptam. 
+	A tőletek kapott tudásnak hála tovább foglalkoztam a tárgyon belül leadott házi feladatommal (IMU szenzorjelek feldolgozása deep learning segítségévével) és a projekttel elnyertem a Suzuki Foundation ösztöndíját, így a következő fél évben Japánban kutathatok a Shizuoko Egyetemen."
+Nagy Balázs - BME GPK, Mechatronikai mérnök, doktorandusz
+
+
+  "Kiss Gábor vagyok, utolsó éves mesterképzéses mechatronikai mérnök hallgató és 2017-ben hallgattam a tárgyukat, Deep Learning a gyakorlatban python és Lua alapon. A házi feladatom parancsszó felismerő neurális hálózatok tanítása és összehasonlítása volt.
+  Azért írok Önöknek, hogy köszönetet mondjak. A tárgy után is aktívan foglalkoztam a területtel, ahogyan Önök is javasolták (Kaggle versenyek, cikkek reprodukálása stb.) és meglett az eredménye. Februártól főállásban fogok dolgozni egy vezető autóipari cégnél Automated Driving területen, igen jó fizetésért. Úgy érzem azok az alapok nélkül és azok az elvek nélkül, amiket Önök átadtak, nem sikerült volna betörnöm erre a területre, a legtöbb embernek ugyanis manapság fogalma sincs a hálózatok mély működéséről."
+Hallgatói vélemény
+
+
+  "A tantárgy eddigi BME-s tanulmányaim közül a legjobb kurzusnak mondható. Naprakész (értsd: valóban az előadás napjára aktuális) információk, rengeteg gyakorlati példa és valós problémák megoldása. Ennél jobb tárgyat nem nagyon tudok elképzelni arra, hogy valaki megismerkedjen a deep learninggel, remek alapokat ad, hogy ezekre építve valaki a későbbiekben el tudjon mélyülni a témában.Még egy hatalmas köszönet a tárgy oktatóinak, ha minden jól megy, pénteken kapom meg az új állásomat gépi tanulás és deep learning témakörben :)"
+Hallgatói vélemény
+
+"...iszonyatosan élveztem az órát, a legjobb volt az egyetemi tanulmányaim alatt. Tetszett a modern, agilis hozzáállás és az, hogy végre egy cutting edge technológiát tanulhattam gyakorlati alapokon."
+Hallgatói vélemény
+
+
+
+
+
+
+
+Aláírás és osztályzat
+			hamarosan...
+					
+
+
+
+Előadás, gyakorlat
+			hamarosan...
+						
+
+
+
+
+FAQ
+
+Q: Mire tudom használni a kurzuson elsajátított ismereteket?
+A: Célunk az alapvető összefüggések, módszerek, algoritmusok és programozási eszközök megtanítása. Ha bejársz az órákra és részt veszel minden feladatban, akkor a kurzus végére a célunk, hogy olyan tudásod legyen, ami alapján már bátran belevághatsz komplexebb deep learning feladatokba. 
+
+Q: Ha bejárok az órákra, deep learning szakember leszek?
+A: Az anyag elsajátításához az órákra való bejárás szükséges, de nem elégséges feltétel. A deep learning téma esetén szükség van sok-sok egyéni munkára. Ehhez megadjuk a segítséget kis- és nagy házi feladatok formájában, konzultációs lehetőséggel. Ha ezeket is lelkiismeretesen elvégzed, akkor az már jó belépőt jelent a deep learning világába. 
+DE! Ha előre láthatóleg nem lesz időd ezeket megcsinálni, vagy még az órákra se tudsz bejárni, akkor arra szeretnénk kérni, hogy a helyek korlátozott száma miatt, inkább gyere vissza, ha több időd lesz és add át a helyet olyannak, aki ezt tudja vállalni. 
+
+Q: Milyen lesz a számonkérés?
+A: Heti rendszerességgel adunk fel gyakorlati házi feladatot, amiért plusz pont jár. Ezen túl a tárgyban van egy nagy házi, ami az aláírás feltétele. Megfelelő minőségű megoldás esetén megajánlott jegyet adunk. A nagy házi feladatot csapatokban fogjátok megoldani. Ha nincs megajánlott jegyed, akkor szóbeli vizsga van. A házikat Github-ra kérjük majd feltölteni.
+
+Q: Mennyit kell majd tanulni?
+A: Legalább annyit, mint amennyit mi készülünk az órákra. :) Viccet félretéve: a célunk tényleg egy gyakorlati, magánvállalkozásban és iparban egyaránt használható tudás átadása. Reméljük, hogy olyan mértékben magával ragad Titeket a téma, mint bennünket (és már jó pár BSc és MSc hallgatónkat), és alig várjátok, hogy lefusson egy újabb tanítás, vagy ismét kódolhassatok. Ekkor már öröm lesz a „tanulás”, de addig pedig a rövid válasz: SOKAT!
+
+Q: Kell tudnom programozni?
+A: Script nyelveket használunk, amiket C, C++ vagy JAVA alapokkal viszonylag gyorsan meg lehet tanulni. Mindazonáltal, ha még nem használtál Python-t vagy LUA-t, akkor sincs baj, gyorsan bele lehet jönni, de foglalkozni kell vele. A kurzus kezdete előtt javasoljuk csinálj végig 1-2 tutorialt, mi ezeket ajánljuk.
+
+Q: Kell-e előzetes elméleti tudás?
+A: Úgy építjük fel a tárgyat, hogy nem kell. Mindazonáltal ha tudsz deriválni, tudod mi az a gradiens módszer, és a mátrix algebrát se felejtetted el teljesen, akkor ezek segítenek. Illetve nagyon jó, ha tisztában vagy a big data és gépi tanulás világával. Ha van időd, csináld végig a lentebb ajánlott, tudásszintednek megfelelő „machine learning” kurzus(oka)t, katt ide. 
+
+Q: Nem vagyok matematikus beállítottságú, hogy fogom érteni?
+A: Ha bejársz és figyelsz, nem lesz gond. A tárgy gyakorlati szempontból mutatja be a deep learning paradigmát. Lesznek mélyebb elméleti részek, de legtöbb esetben a képleteket összerendeljük forráskóddal, így könnyebb lesz.
+
+Q: Hol kaphatok további infókat a tárgyról?
+A: Az órán elhangzott és a házikkal kapcsolatos dolgokat a a kurzus hivatalos Microsoft Teams csatornáján tudjátok megbeszélni. A tárgyal kapcsolatos javaslatokat, kritikákat anonim módon pedig itt tudjátok beküldeni.
+
+
+Linkek
+
+Tárggyal kapcsolatos oldalak
+Python
+CS228 Python tutorial
+Python kurzus a Coursera-n
+Gépi tanulás, deep learning
+Andrew Ng: Machine Learning - általános gépi tanulás kurzus, ha új vagy a témában ezzel kezd
+Nando de Freitas: Deep learning at Oxford 2015 - ez már kifejezetten haladó deep learning kurzus, elméleti háttérrel és gyakorlati példákkal
+Hugo Larochelle professzor on-line kurzusa - nagyon jó anyag, ami érinti mind a matematikai és machine learning alapokat, mind pedig az alkalmazott deep learning témakört
+CS231n: Stanford egyetem képfelismerős kurzusának sillabusza - nagyon jó anyag, az általános megfontolások és a CNN specifikus részek is ismertetésre kerülnek benne
+CS224d: Stanford egyetem természetes nyelvfeldolgozás kurzusának sillabusza - szintén nagyon jó anyag a nyelvi modellezés LSTM és GRU alapjairól
+Long Short-Term Memory (LSTM) - nagyon jó, könnyen érthető, nagyon sokat hivatkozott leírás
+The Unreasonable Effectiveness of Recurrent Neural Networks - Szekvencia modellezés LSTM-el. A szövegszintézis, zeneszintézis alapjai, szemléletes példákkal. Must read!
+The Matrix Calculus You Need For Deep Learning - A deep learning-hez leginkább szükséges mátrix műveleteket összefoglaló nagyszerű cikk!
+Deep learning programozás
+Deep Learning with Python könyv (F. Chollet) gyakorlati anyaga
+Deep Learning with Keras Tutorial @ EuroScipy 2016 - szuper Keras tutorial (2016 nyár)
+Fast.ai kurzus - nagyszerű videók és notebook-ok (Python) kezdő szinttől haladó szintig.
+TensorFlow Tutorial - used by Nvidia - kiváló TensorFlow tutorial
+Awesome TensorFlow - TensorFlow-val kapcsolatos rengeteg forrás egy helyen
+Rekurrens hálók, Backpropagation Through Time (BPTT) - nagyon szépen elmagyarázza a sima RNN és BPTT elméletét kóddal illusztrálva, illetve az LSTM-re is kitér
+
+KIS HÁZI FELADAT
+hamarosan ....
+
+NAGY HÁZI FELADAT
+hamarosan...
+
+A beszámoló formázásnak a gépi tanulás témában elismert konferencia vagy folyóirat irányelveit kell követnie:
+
+
+NIPS formátum (LaTex)
+IEEE Transactions (Word, LaTex)
+
+
+ELŐADÁSOK ÉS GYAKORLATOK ANYAGAI
+Az előadásokhoz tartozó diák és a gyakorlatok anyagai az elhangzásuk után kerülnek feltöltésre a tárgy Moodle oldalára.
+
+
+
+Segédlet: Amazon Web Service (AWS) használata deep learningre diákoknak ingyen (Szabó Dániel Attila)
+Segédlet: Google Cloud használata deep learningre diákoknak ingyen (Szabó Dániel Attila)
+
+SZABÁLYOK
+Kis és nagy házi feladat egymásról való másolás gyanúja esetén az időben későbbi feltöltés tulajdonosa minden plusz lehetőségből ki lesz zárva (megajánlott jegy, +1 jegy) és kötelező számára a szóbeli vizsga. Bizonyosság esetén -1 jegy.
+A feltöltött előadásokhoz tartozó diák nem helyettesítik az előadáson való részvételt, csupán emlékeztetőül szolgálnak.
+Az előadás diái a szerzői jog védelme alatt állnak. Az előadás diáinak vagy bármilyen részének újra felhasználása, terjesztése, megjelenítése csak a szerző írásbeli beleegyezése esetén megengedett. Ez alól kivétel, mely diákon külső forrás külön fel van tüntetve.
+
+Tweets by VITMAV45 
+
+
+
+﻿
+	
+    
+
+
+
+
+
+
+
+Laboratóriumunk magyar és idegennyelvű gépi szövegfelolvasó fejlesztésével, az ember-gép kapcsolat vizsgálatával és modern gépi tanulóalgoritmusok kutatásával foglalkozik.
+Akadémiai és ipari partnereink sikeresen alkalmazzák megoldásainkat.
+
+
+
+
+Kiemelt tartalmak
+
+Rólunk
+Publikációk
+Magyar nyelvű TTS
+Deep Learning
+Kapcsolat
+
+
+
+
+
+
+Hallgatóknak
+
+Önálló laboratórium
+Szakdolgozat- / diplomatervezés
+Szakmai gyakorlat
+UX mellékspecializáció
+
+
+
+
+
+
+Kapcsolat
+
+                            Magyar tudósok krt. 2.
+                            1117 Budapest, HUNGARY
+                            Telefon: +36-1-463-3883 
+                            Fax:  +36-1-463-3107
+                            Email: smartlab@tmit.bme.hu
+
+
+
+
+
+
+
+
+
+
+
+                            2024 © Minden jog fenntartva. A honlap minden tartalma és a honlapról letölthető dokumentumok (cikkek, bemutatók, diasorok, szoftverek, könyvek, stb.) a szerzői jog védelme alatt állnak. Ezek egészének vagy bármilyen részének újra felhasználása, terjesztése, megjelenítése csak a szerző(k) írásbeli beleegyezése esetén megengedett. 
+(v914)
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
